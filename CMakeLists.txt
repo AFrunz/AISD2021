@@ -27,6 +27,8 @@ add_executable(binaryTree 3/binaryTree/main4.c 3/binaryTree/Tree.c)
 #4 (1/2)
 #status = было
 add_executable(Heap 4/heap/main6.c 4/heap/Heap.c)
+#status = сделано
+add_executable(skipList 4/skipList/tests.c 4/skipList/skipList.c)
 #5 (1/1)
 #status = было
 add_executable(graph 5/graph/main5.c 5/graph/Graph.c)
